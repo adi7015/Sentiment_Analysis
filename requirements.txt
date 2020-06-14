@@ -1,11 +1,9 @@
 h5py==2.10.0
 Jinja2==2.11.1
 json5==0.9.1
-Keras==2.3.1
 nltk==3.4.5
 snowballstemmer==2.0.0
 streamlit==0.61.0
-tensorflow==2.2.0
-Theano==1.0.4
+tensorflow==1.5
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
